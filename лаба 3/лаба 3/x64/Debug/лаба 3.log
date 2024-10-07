@@ -1,0 +1,6 @@
+﻿  лаба3.c
+C:\Users\student\source\repos\лаба 3\лаба3.c(16,2): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\student\source\repos\лаба 3\лаба3.c(23,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 3\лаба3.c(24,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\student\source\repos\лаба 3\лаба3.c(35,2): warning C4098: main: функция типа "void", возвращающая значение
+  лаба 3.vcxproj -> C:\Users\student\source\repos\лаба 3\x64\Debug\лаба 3.exe
